@@ -1,15 +1,6 @@
----
-title: Basic writing and formatting syntax
-intro: Create sophisticated formatting for your prose and code on GitHub with simple syntax.
-redirect_from:
-  - /articles/basic-writing-and-formatting-syntax
-  - /github/writing-on-github/basic-writing-and-formatting-syntax
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-shortTitle: Basic formatting syntax
----
+# Basic writing and formatting syntax
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+
 ## Headings
 
 To create a heading, add one to six `#` symbols before your heading text. The number of `#` you use will determine the size of the heading.
@@ -19,8 +10,6 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 ## The second largest heading
 ###### The smallest heading
 ```
-
-![Rendered H1, H2, and H6 headings](/assets/images/help/writing/headings-rendered.png)
 
 ## Styling text
 
