@@ -1,3 +1,67 @@
+## TODO
+Liste de librairie à trier
+
+### XBee
+LibXbeeVoh de batard qui contient directement un thread avec le uart en dessous iUart amélioré avec des signaux. Et toutes les fonctions possibles pour gérer tous les mode possibles comme ça dans la couche application on a juste à instancier un élément simple. 
+Voir QtXbee et la libxbee ansic de digi
+
+https://github.com/ThomArmax/QtXBee
+
+https://github.com/anthonypocock/QtXbee
+
+https://github.com/digidotcom/xbee_ansic_library
+
+https://doc.qt.io/qt-5/qserialport.html
+
+### GPIO
+https://github.com/vladest/qtgpio
+
+### AES Encryption
+https://github.com/bricke/Qt-AES
+
+### qml DatePicker
+https://github.com/ekke/c2gQtCon_x/tree/334076673ec34586d110a6dc1d0a10a955f851f1/qml/popups
+
+### QAdvancedItemViews
+QAdvancedItemViews (QAIV) extends the capabilities of the Qt classes QTableView and QSortFilterProxyModel. 
+E.g. QAdvancedTableView supports multicolumn filtering and includes a header view alowing users to create, modify and delete filter. 
+Additional utility classes provide proxy models for conditional decorations, groupings and a lot more.
+https://github.com/lit-uriy/QAdvancedItemViews
+
+### Utils
+https://github.com/ptstream/QtUPnP
+
+https://github.com/SadeepaDiluk/simple-MP3-Player-QT
+
+https://ortogonal.github.io/qtranslator/
+
+https://github.com/keshavbhatt/olivia
+
+https://github.com/fpoussin/QtUsb
+
+https://github.com/JonMagon/KDiskMark/tree/2.2.1
+
+https://github.com/pawelsalawa/sqlitestudio
+
+https://awesomeopensource.com/projects/qt
+
+https://awesomeopensource.com/projects
+
+https://opensourcelibs.com/libs/qt
+
+https://opensourcelibs.com/libs/qtquick
+
+https://opensourcelibs.com
+
+https://github.com/varigit/meta-variscite-boot2qt
+
+https://opensourcelibs.com/lib/cutemarked
+
+
+
+
+
+
 # Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/JesseTG/awesome-qt/ef9f71a9/qt.svg" align="right" width="100">](https://www.qt.io)
